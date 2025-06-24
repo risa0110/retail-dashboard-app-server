@@ -4,44 +4,6 @@
         "name": "tatami slipper M",
         "price": 1430,
         "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-s.jpg",
-        "stock": 20,
-        "description": ,
-        "tags":[]
-    }
-    {
-        "id":2,
-        "name":,
-        "price":,
-        "image":,
-        "stock":,
-        "description":,
-        "tags":[]
-    }
-    {
-        "id":3,
-        "name":,
-        "price":,
-        "image":,
-        "stock":,
-        "description":,
-        "tags":[]
-    }
-    {
-        "id":4,
-        "name":,
-        "price":,
-        "image":,
-        "stock":,
-        "description":,
-        "tags":[]
-    }
-    {
-        "id":5,
-        "name":,
-        "price":,
-        "image":,
-        "stock":,
-        "description":,
-        "tags":[]
-    }
+        "stock": 20
+    }    
 ]
