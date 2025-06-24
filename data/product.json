@@ -1,9 +1,83 @@
 [
     {
         "id": 1,
-        "name": "tatami slipper M",
+        "name": "Rush Grass Slipper M",
         "price": 1430,
         "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-s.jpg",
-        "stock": 20
-    }    
+        "stock": 20,
+        "description": "These slippers are a staple item for the hot season. The refreshing scent of igusa (rush grass) subtly fills the air, giving you the pleasant feeling of walking on tatami mats. The cool, smooth texture of the igusa is complemented by a soft pile fabric on the instep lining, which is gentle on your skin and helps prevent stuffiness—making them perfect for humid summer days spent at home or just after a bath. They feature a thick, comfortable insole that reduces fatigue even when worn for long hours, plus a slip-resistant sole for safety. Available in two designs embroidered with sea creatures, and also in an L size (approx. 24.5–26 cm), so you can enjoy matching pairs with your family.",
+        "tags":["Slippers","LivingGoods","HomeTime","SeaCreatures"]
+    },
+    {
+        "id":2,
+        "name":"PEANUTS Glass",
+        "price":1100,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152575-s.jpg",
+        "stock":30,
+        "description":"This glass features a fun and stylish design with Snoopy and Charlie Brown. With a generous capacity of 420 ml, it’s perfect for enjoying iced drinks, smoothies, and more. The gift box is also decorated with Snoopy characters, making it exciting to open and an ideal present. Simple yet charming, the design highlights the beloved characters and ensures a timeless appeal. A delightful item to brighten up your daily home life.",
+        "tags":["Snoopy", "Character", "Tableware", "Dining", "LifestyleGoods", "HomeTime", "SmallGift"]
+    },
+    {
+        "id":3,
+        "name":"Animal embroidery pile loungewear top and bottom set",
+        "price":3300,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152736-s.jpg",
+        "stock":10,
+        "description":"Made with fluffy, soft pile fabric, this loungewear offers a gentle and comfortable feel against the skin. Adorned with adorable appliqués of a koala, fox, and wombat on the chest. Ideal for relaxing at home or wearing to bed. Its high absorbency makes it great for outdoor activities like pool or beach visits, or for wearing on sweaty skin. The pants have a moderately long length, recommended for those concerned about chills, and feature an elastic waistband for a stress-free fit.",
+        "tags":["Roomwear", "HomeTime", "RareAnimals","Animals"]
+    },
+    {
+        "id":4,
+        "name":"[Online only item] 3D creative glass ball",
+        "price":1980,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153074-s.jpg",
+        "stock":5,
+        "description":"This elegant item features a glass ball with a 3D laser-engraved design. When placed on the included USB-powered table light, a mesmerizing silhouette appears, turning it into an art object. The design inside the glass comes to life in three dimensions when lit, creating an even more enchanting atmosphere. Perfect for setting the mood in any room. Please note: Due to the product’s weight, the box may become slightly dented during storage or shipping. Also, be careful when handling, as lifting the box alone may cause the bottom to warp.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","SmallGift"]
+    },
+    {
+        "id":5,
+        "name":"[Online only item] Animal base shoebill",
+        "price":880,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-s.jpg",
+        "stock":5,
+        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
+    },
+    {
+        "id":6,
+        "name":"[Online only item] Animal base shoebill",
+        "price":880,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-s.jpg",
+        "stock":5,
+        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
+    },
+    {
+        "id":7,
+        "name":"[Online only item] Animal base shoebill",
+        "price":880,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-s.jpg",
+        "stock":5,
+        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
+    },
+    {
+        "id":8,
+        "name":"[Online only item] Animal base shoebill",
+        "price":880,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-s.jpg",
+        "stock":5,
+        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
+    },
+    {
+        "id":9,
+        "name":"[Online only item] Animal base shoebill",
+        "price":880,
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-s.jpg",
+        "stock":5,
+        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
+        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
+    }
 ]
