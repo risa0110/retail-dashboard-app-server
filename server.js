@@ -3,23 +3,27 @@ const app = express();
 const fs = require('fs');
 const path =require('path');
 const PORT = 3000;
+const cors = require('cors');
+
+app.use(cors());
 
 app.use(express.json());
 
-app.post('/register', (req,res)=>{
-    const userData = req.body;
+//recieve the purchase request data
+app.post('/purchase', (req,res)=>{
+    const purchaseData = req.body;
 
-    const filePath = path.join(__dirname, 'data', 'users.json');
-    let users = [];
+    const filePath = path.join(__dirname, 'data', 'purchase.json');
+    let purchases = [];
 
     if(fs.existsSync(filePath)){
         const fileData = fs.readFileSync(filePath);
-        users = JSON.parse(fileData);
+        purchases = JSON.parse(fileData);
     }
-    users.push(userData);
-    fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
+    purchases.push(purchaseData);
+    fs.writeFileSync(filePath, JSON.stringify(purchases, null, 2));
     
-    res.status(200).json({message:'User registered successfully!'});
+    res.status(200).json({message:'Purchase data has requested successfully!'});
 });
 
 app.listen(PORT, ()=>{
