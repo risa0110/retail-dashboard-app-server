@@ -84,7 +84,7 @@
         "id":10,
         "name":"Sea Creatures Chopstick Rests",
         "price":715,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152860-s.jpg",
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152860-l.jpg",
         "stock":5,
         "description":"Warm wooden chopstick rests featuring adorable otters and seals. Their charming faces bring a little joy to every meal. An everyday item that makes your table feel more fun and inviting. Not dishwasher safe.",
         "tags":["Dining","Home Time","SeaCreatures","Small Gift"]
@@ -93,7 +93,7 @@
         "id":11,
         "name":"[Online only item] Garden Eel Glass",
         "price":1738,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152647-s.jpg",
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152647-l.jpg",
         "stock":5,
         "description":"A playful glass featuring a tiny garden eel peeking up from inside. Each glass contains a handmade glass mascot that brings a smile every time you look at it. A great gift idea full of whimsy. This item is not microwave, oven, dishwasher, or dryer safe. Do not use with spoons, stirrers, or ice as it may damage the interior motif. Handmade — each item may vary slightly in shape and expression.",
         "tags":["Online only item","Dining","Tableware","Daily Goods","Sea Creatures"]
@@ -102,7 +102,7 @@
         "id":12,
         "name":"Fruit Glass Bead Coasters",
         "price":748,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-s.jpg",
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-l.jpg",
         "stock":5,
         "description":"Cute and colorful fruit-themed coasters made with shimmering glass beads. Adds a summery sparkle and charm to any table setting. Can also be used as a decorative base for vases. Available in four styles: peach, orange, apple, and watermelon. Handmade – slight variations may occur.",
         "tags":["Interior","Living Goods","Dining","Fruit","Small Gift"]
@@ -111,7 +111,7 @@
         "id":13,
         "name":"Ripple Check Room Shoes",
         "price":1760,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-s.jpg",
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-l.jpg",
         "stock":5,
         "description":"Cute checkered room shoes with a ribbon detail, perfect for warmer seasons. The upper is made of soft pile fabric, and the lightly cushioned insole feels pleasant even barefoot. Available in pink, mint, and blue. An original item by Bleu Bleuet.",
         "tags":["Original","Slippers","Living Goods","Checkered","Ribbon"]
@@ -120,7 +120,7 @@
         "id":14,
         "name":"Handy Fan Petit",
         "price":2200,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-s.jpg",
+        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-l.jpg",
         "stock":5,
         "description":"A palm-sized handy fan that’s as cute as it is practical — a must-have for hot summer days. Lightweight and portable, ideal for commuting or everyday outings.",
         "tags":["Cooling Item","Chill Goods","Home Time","HomeTime","Outdoor"]
