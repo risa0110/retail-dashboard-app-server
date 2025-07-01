@@ -1,322 +1,419 @@
 [
-    {
-        "id": 1,
-        "name": "Rush Grass Slipper M",
-        "price": 1430,
-        "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-l.jpg",
-        "stock":100,
-        "variants":[
-            {
-                "types":"red",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152537a-92.jpg"
-            },
-            {
-                "types":"blue",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152537a-91.jpg"
-            }
-        ],
-        "description": "These slippers are a staple item for the hot season. The refreshing scent of igusa (rush grass) subtly fills the air, giving you the pleasant feeling of walking on tatami mats. The cool, smooth texture of the igusa is complemented by a soft pile fabric on the instep lining, which is gentle on your skin and helps prevent stuffiness—making them perfect for humid summer days spent at home or just after a bath. They feature a thick, comfortable insole that reduces fatigue even when worn for long hours, plus a slip-resistant sole for safety. Available in two designs embroidered with sea creatures, and also in an L size (approx. 24.5–26 cm), so you can enjoy matching pairs with your family.",
-        "tags":["Slippers","LivingGoods","HomeTime","SeaCreatures"]
-    },
-    {
-        "id":2,
-        "name":"PEANUTS Glass",
-        "price":1100,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152575-l.jpg",
-        "stock":500,
-        "variants":[
-            {
-                "types":"snoopy",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152575-91.jpg"
-            },
-            {
-                "types":"Charlie Brown",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152575-92.jpg"
-            }
-        ],
-        "description":"This glass features a fun and stylish design with Snoopy and Charlie Brown. With a generous capacity of 420 ml, it’s perfect for enjoying iced drinks, smoothies, and more. The gift box is also decorated with Snoopy characters, making it exciting to open and an ideal present. Simple yet charming, the design highlights the beloved characters and ensures a timeless appeal. A delightful item to brighten up your daily home life.",
-        "tags":["Snoopy", "Character", "Tableware", "Dining", "LifestyleGoods", "HomeTime", "SmallGift"]
-    },
-    {
-        "id":3,
-        "name":"Animal embroidery pile loungewear top and bottom set",
-        "price":3300,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152736-l.jpg",
-        "stock":50,
-        "variants":[
-            {
-                "types":"Blue Grey",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152736-l.jpg"
-            },
-            {
-                "types":"Brown",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152736-92.jpg"
-            },
-            {
-                "types":"Pink",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152736-93.jpg"
-            }
-        ],
-        "description":"Made with fluffy, soft pile fabric, this loungewear offers a gentle and comfortable feel against the skin. Adorned with adorable appliqués of a koala, fox, and wombat on the chest. Ideal for relaxing at home or wearing to bed. Its high absorbency makes it great for outdoor activities like pool or beach visits, or for wearing on sweaty skin. The pants have a moderately long length, recommended for those concerned about chills, and feature an elastic waistband for a stress-free fit.",
-        "tags":["Roomwear", "HomeTime", "RareAnimals","Animals"]
-    },
-    {
-        "id":4,
-        "name":"[Online only item] 3D creative glass ball",
-        "price":1980,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153074-l.jpg",
-        "stock":20,
-        "variants":[
-            {
-                "types":"Moon",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153074-91.jpg"
-            },
-            {
-                "types":"Galaxy",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153074-92.jpg"
-            },
-            {
-                "types":"Jellyfish",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153074-93.jpg"
-            }
-        ],
-        "description":"This elegant item features a glass ball with a 3D laser-engraved design. When placed on the included USB-powered table light, a mesmerizing silhouette appears, turning it into an art object. The design inside the glass comes to life in three dimensions when lit, creating an even more enchanting atmosphere. Perfect for setting the mood in any room. Please note: Due to the product’s weight, the box may become slightly dented during storage or shipping. Also, be careful when handling, as lifting the box alone may cause the bottom to warp.",
-        "tags":["Online only item","Interior","LivingGoods","HomeTime","SmallGift"]
-    },
-    {
-        "id":5,
-        "name":"[Online only item] Animal base shoebill",
-        "price":880,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-l.jpg",
-        "stock":0,
-        "variants":[
-            {
-                "types":"Shoebill",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153082-l.jpg"
-            }
-        ],
-        "description":"This charming shoebill vase peeks out from among your plants with a unique and lovable expression. Simply add dried flowers or small blooms to instantly brighten up your space. Its distinctive look makes it a striking accent piece in any interior. You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless. This item is exclusive to our online store.",
-        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
-    },
-    {
-        "id":6,
-        "name":"[Online only item] Deco Glass Cherry",
-        "price":1628,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153084-l.jpg",
-        "stock":30,
-        "variants":[
-            {
-                "types":"Cherry",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153084-l.jpg"
-            }
-        ],
-        "description":"A delicate glass flower vase in the shape of a bright red cherry, small enough to fit in your hand. Perfect as a charming accent piece, whether you place a flower inside or display it as-is. Put it by the window and enjoy the beautiful reflections of light. Collect items from the same series to create a delightful, heart-lifting space.",
-        "tags":["Online only item","Interior","LivingGoods","HomeTime","Fruit","Small Gift"]
-    },
-    {
-        "id":7,
-        "name":"[Online only item] Deco Glass Lemon",
-        "price":1870,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153085-l.jpg",
-        "stock":20,
-        "variants":[
-            {
-                "types":"Lemon",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153085-l.jpg"
-            }
-        ],
-        "description":"A delicate glass flower vase shaped like a refreshing lemon, palm-sized and full of charm. Great as a gentle accent to your room, whether used with flowers or on its own. Placed by a window, it reflects the light beautifully. Pair it with other items in the series for a cheerful and inspiring display.",
-        "tags":["Online only item","Interior","LivingGoods","HomeTime","Shoebill","Bird","RareAnimals","Animals"]
-    },
-    {
-        "id":8,
-        "name":"[Online only item] Graffe Pineapple Tower",
-        "price":2530,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153091-l.jpg",
-        "stock":5,
-        "variants":[
-            {
-                "types":"Pineapple",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153091-l.jpg"
-            }
-        ],
-        "description":"A fun and unique 4-piece glass set that stacks to form a pineapple tower. Its retro-inspired design and pineapple color give it a cute and nostalgic feel. Great for drinks, or for serving fruit and ice cream. Not microwave or dishwasher safe.",
-        "tags":["Online only item","Interior","Tableware","HomeTime","Dining","Fruit","Small Gift"]
-    },
-    {
-        "id":9,
-        "name":"Chirari's Plush",
-        "price":2750,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/chirari_s_750-900-1.jpg",
-        "stock":100,
-        "variants":[
-            {
-                "types":"Nezuchi",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153161-91.jpg"
-            },
-            {
-                "types":"Moguchi",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153161-92.jpg"
-            },
-            {
-                "types":"Hituchi",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153161-93.jpg"
-            }
-        ],
-        "description":"From popular plush artist Sekonao, meet the shy and curious “Chirari” series. They’re little creatures who love peeking at the human world from behind objects. Each has a unique charm: mouse-like “Nezuchi,” mole-like “Moguchi,” and sheep-like “Hitsuchi.” Carefully crafted with attention to detail, including their signature tilted posture and lovable expressions. Their gaze will surely bring a smile to your face. Features a woven name label in bright yellow as a cute accent. Perfect for display, gifting, or taking photos with.",
-        "tags":["Plush Toy", "Sheep", "Animals"]
-    },
-    {
-        "id":10,
-        "name":"Sea Creatures Chopstick Rests",
-        "price":715,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152860-l.jpg",
-        "stock":300,
-        "variants":[
-            {
-                "types":"Sea otter",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152860-91.jpg"
-            },
-            {
-                "types":"Seal",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152860-92.jpg"
-            }
-        ],
-        "description":"Warm wooden chopstick rests featuring adorable otters and seals. Their charming faces bring a little joy to every meal. An everyday item that makes your table feel more fun and inviting. Not dishwasher safe.",
-        "tags":["Dining","Home Time","SeaCreatures","Small Gift"]
-    },
-    {
-        "id":11,
-        "name":"[Online only item] Garden Eel Glass",
-        "price":1738,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152647-l.jpg",
-        "stock":50,
-        "variants":[
-            {
-                "types":"Spotted garden eel",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152647-91.jpg"
-            },
-            {
-                "types":"Splended garden eel",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152647-92.jpg"
-            }
-        ],
-        "description":"A playful glass featuring a tiny garden eel peeking up from inside. Each glass contains a handmade glass mascot that brings a smile every time you look at it. A great gift idea full of whimsy. This item is not microwave, oven, dishwasher, or dryer safe. Do not use with spoons, stirrers, or ice as it may damage the interior motif. Handmade — each item may vary slightly in shape and expression.",
-        "tags":["Online only item","Dining","Tableware","Daily Goods","Sea Creatures"]
-    },
-    {
-        "id":12,
-        "name":"Fruit Glass Bead Coasters",
-        "price":748,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-l.jpg",
-        "stock":200,
-        "variants":[
-            {
-                "types":"Peach",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-91.jpg"
-            },
-            {
-                "types":"Orange",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-92.jpg"
-            },
-            {
-                "types":"Apple",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-93.jpg"
-            },
-            {
-                "types":"Watermelon",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/153068-94.jpg"
-            }
-        ],
-        "description":"Cute and colorful fruit-themed coasters made with shimmering glass beads. Adds a summery sparkle and charm to any table setting. Can also be used as a decorative base for vases. Available in four styles: peach, orange, apple, and watermelon. Handmade – slight variations may occur.",
-        "tags":["Interior","Living Goods","Dining","Fruit","Small Gift"]
-    },
-    {
-        "id":13,
-        "name":"Ripple Check Room Shoes",
-        "price":1760,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-l.jpg",
-        "stock":30,
-        "variants":[
-            {
-                "types":"red",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-91.jpg"
-            },
-            {
-                "types":"blue",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-93.jpg"
-            },
-            {
-                "types":"green",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152649-92.jpg"
-            }
-        ],
-        "description":"Cute checkered room shoes with a ribbon detail, perfect for warmer seasons. The upper is made of soft pile fabric, and the lightly cushioned insole feels pleasant even barefoot. Available in pink, mint, and blue. An original item by Bleu Bleuet.",
-        "tags":["Original","Slippers","Living Goods","Checkered","Ribbon"]
-    },
-    {
-        "id":14,
-        "name":"Handy Fan Petit",
-        "price":2200,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-l.jpg",
-        "stock":50,
-        "variants":[
-            {
-                "types":"white",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-91.jpg"
-            },
-            {
-                "types":"blue",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-92.jpg"
-            },
-            {
-                "types":"pink",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152060-93.jpg"
-            }
-        ],
-        "description":"A palm-sized handy fan that’s as cute as it is practical — a must-have for hot summer days. Lightweight and portable, ideal for commuting or everyday outings.",
-        "tags":["Cooling Item","Chill Goods","Home Time","HomeTime","Outdoor"]
-    },
-    {
-        "id":15,
-        "name":"Romance Gravy Beer Glass",
-        "price":748,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152094-l.jpg",
-        "stock":300,
-        "variants":[
-            {
-                "types":"gentle man",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152094-91.jpg"
-            },
-            {
-                "types":"difficult man",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152094-92.jpg"
-            }
-        ],
-        "description":"A beer glass that reveals a charming, dandy gentleman when you pour your beer in. A fun and unique design that beer lovers will appreciate. Its shape fits comfortably in your hand and makes drinking easy and enjoyable. Perfect for relaxing at the end of the day. Great for yourself or as a gift. Not microwave or dishwasher safe.",
-        "tags":["Tableware","Dining"]
-    },
-    {
-        "id":16,
-        "name":"Doggo Floor Mat",
-        "price":2750,
-        "image":"https://risa0110.github.io/retail-dashboard-app-server/img/152815-l.jpg",
-        "stock":60,
-        "variants":[
-            {
-                "types":"Schnauzer",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152815-91.jpg"
-            },
-            {
-                "types":"Toy poodle",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152815-92.jpg"
-            },
-            {
-                "types":"Samoyed",
-                "imgUrl":"https://risa0110.github.io/retail-dashboard-app-server/img/152815-93.jpg"
-            }
-        ],
-        "description":"A cozy floor mat featuring relaxed and adorable dog designs. Perfect not only as a welcome mat or kitchen mat but also as an interior accent for your living room or any room. Soft and fluffy texture makes it ideal for comfortable relaxing at home. The backside has an anti-slip feature to keep it securely in place, and it’s washable for easy care. Available in 3 different designs. A great gift for dog lovers too!",
-        "tags":["Living Goods","Interior","Dogs"]
-    }
+  {
+    "id": 1,
+    "name": "Rush Grass Slipper M",
+    "price": 1430,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-l.jpg",
+    "stock": 99,
+    "variants": [
+      {
+        "types": "red",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-92.jpg"
+      },
+      {
+        "types": "blue",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-91.jpg"
+      }
+    ],
+    "description": "<p>These slippers are a staple item for the hot season. <br> The refreshing scent of igusa (rush grass) subtly fills the air, giving you the pleasant feeling of walking on tatami mats.</p> <p>The cool, smooth texture of the igusa is complemented by a soft pile fabric on the instep lining, <br> which is gentle on your skin and helps prevent stuffiness—making them perfect for humid summer days spent at home or just after a bath.</P> <p>They feature a thick, comfortable insole that reduces fatigue even when worn for long hours, <br> plus a slip-resistant sole for safety.</p> <p>Available in two designs embroidered with sea creatures, and also in an L size (approx. 24.5–26 cm), <br> so you can enjoy matching pairs with your family.</p>",
+    "tags": [
+      "Slippers",
+      "LivingGoods",
+      "HomeTime",
+      "SeaCreatures"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "PEANUTS Glass",
+    "price": 1100,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-l.jpg",
+    "stock": 499,
+    "variants": [
+      {
+        "types": "snoopy",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-91.jpg"
+      },
+      {
+        "types": "Charlie Brown",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-92.jpg"
+      }
+    ],
+    "description": "<p>This glass features a fun and stylish design with Snoopy and Charlie Brown. <br> With a generous capacity of 420 ml, it’s perfect for enjoying iced drinks, smoothies, and more.</p> <p>The gift box is also decorated with Snoopy characters, making it exciting to open and an ideal present. <br> Simple yet charming, the design highlights the beloved characters and ensures a timeless appeal.</p> <p>A delightful item to brighten up your daily home life.</p>",
+    "tags": [
+      "Snoopy",
+      "Character",
+      "Tableware",
+      "Dining",
+      "LifestyleGoods",
+      "HomeTime",
+      "SmallGift"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Animal embroidery pile loungewear top and bottom set",
+    "price": 3300,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152736-l.jpg",
+    "stock": 50,
+    "variants": [
+      {
+        "types": "Blue Grey",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152736-l.jpg"
+      },
+      {
+        "types": "Brown",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152736-92.jpg"
+      },
+      {
+        "types": "Pink",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152736-93.jpg"
+      }
+    ],
+    "description": "<p>Made with fluffy, soft pile fabric, this loungewear offers a gentle and comfortable feel against the skin. <br> Adorned with adorable appliqués of a koala, fox, and wombat on the chest. <br> Ideal for relaxing at home or wearing to bed.</p> <p>Its high absorbency makes it great for outdoor activities like pool or beach visits, or for wearing on sweaty skin.</p> <p>The pants have a moderately long length, recommended for those concerned about chills, and feature an elastic waistband for a stress-free fit.</p>",
+    "tags": [
+      "Roomwear",
+      "HomeTime",
+      "RareAnimals",
+      "Animals"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "[Online only item] 3D creative glass ball",
+    "price": 1980,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153074-l.jpg",
+    "stock": 20,
+    "variants": [
+      {
+        "types": "Moon",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153074-91.jpg"
+      },
+      {
+        "types": "Galaxy",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153074-92.jpg"
+      },
+      {
+        "types": "Jellyfish",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153074-93.jpg"
+      }
+    ],
+    "description": "<p>This elegant item features a glass ball with a 3D laser-engraved design. <br> When placed on the included USB-powered table light, a mesmerizing silhouette appears, turning it into an art object.</p> <p>The design inside the glass comes to life in three dimensions when lit, creating an even more enchanting atmosphere. <br> Perfect for setting the mood in any room.</p> <p>Please note: Due to the product’s weight, the box may become slightly dented during storage or shipping. <br> Also, be careful when handling, as lifting the box alone may cause the bottom to warp.</p>",
+    "tags": [
+      "Online only item",
+      "Interior",
+      "LivingGoods",
+      "HomeTime",
+      "SmallGift"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "[Online only item] Animal base shoebill",
+    "price": 880,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153082-l.jpg",
+    "stock": 0,
+    "variants": [
+      {
+        "types": "Shoebill",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153082-l.jpg"
+      }
+    ],
+    "description": "<p>This charming shoebill vase peeks out from among your plants with a unique and lovable expression. <br> Simply add dried flowers or small blooms to instantly brighten up your space.</p> <p>Its distinctive look makes it a striking accent piece in any interior. <br> You can also use it as a diffuser holder to create a soothing atmosphere or as a quirky pen holder for your desk—the possibilities are endless.</p> <p>This item is exclusive to our online store.</p>",
+    "tags": [
+      "Online only item",
+      "Interior",
+      "LivingGoods",
+      "HomeTime",
+      "Shoebill",
+      "Bird",
+      "RareAnimals",
+      "Animals"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "[Online only item] Deco Glass Cherry",
+    "price": 1628,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153084-l.jpg",
+    "stock": 30,
+    "variants": [
+      {
+        "types": "Cherry",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153084-l.jpg"
+      }
+    ],
+    "description": "<p>A delicate glass flower vase in the shape of a bright red cherry, small enough to fit in your hand. <br> Perfect as a charming accent piece, whether you place a flower inside or display it as-is.</p> <p>Put it by the window and enjoy the beautiful reflections of light. <br> Collect items from the same series to create a delightful, heart-lifting space.</p>",
+    "tags": [
+      "Online only item",
+      "Interior",
+      "LivingGoods",
+      "HomeTime",
+      "Fruit",
+      "Small Gift"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "[Online only item] Deco Glass Lemon",
+    "price": 1870,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153085-l.jpg",
+    "stock": 20,
+    "variants": [
+      {
+        "types": "Lemon",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153085-l.jpg"
+      }
+    ],
+    "description": "<p>A delicate glass flower vase shaped like a refreshing lemon, palm-sized and full of charm. <br> Great as a gentle accent to your room, whether used with flowers or on its own.</p> <p>Placed by a window, it reflects the light beautifully. <br> Pair it with other items in the series for a cheerful and inspiring display.</p>",
+    "tags": [
+      "Online only item",
+      "Interior",
+      "LivingGoods",
+      "HomeTime",
+      "Shoebill",
+      "Bird",
+      "RareAnimals",
+      "Animals"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "[Online only item] Graffe Pineapple Tower",
+    "price": 2530,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153091-l.jpg",
+    "stock": 5,
+    "variants": [
+      {
+        "types": "Pineapple",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153091-l.jpg"
+      }
+    ],
+    "description": "<p>A fun and unique 4-piece glass set that stacks to form a pineapple tower. <br> Its retro-inspired design and pineapple color give it a cute and nostalgic feel.</p> <p>Great for drinks, or for serving fruit and ice cream. <br> Not microwave or dishwasher safe.</p>",
+    "tags": [
+      "Online only item",
+      "Interior",
+      "Tableware",
+      "HomeTime",
+      "Dining",
+      "Fruit",
+      "Small Gift"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chirari's Plush",
+    "price": 2750,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/chirari_s_750-900-1.jpg",
+    "stock": 100,
+    "variants": [
+      {
+        "types": "Nezuchi",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153161-91.jpg"
+      },
+      {
+        "types": "Moguchi",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153161-92.jpg"
+      },
+      {
+        "types": "Hituchi",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153161-93.jpg"
+      }
+    ],
+    "description": "<p>From popular plush artist Sekonao, meet the shy and curious “Chirari” series. <br> They’re little creatures who love peeking at the human world from behind objects. <br> Each has a unique charm: mouse-like “Nezuchi,” mole-like “Moguchi,” and sheep-like “Hitsuchi.” <br> Carefully crafted with attention to detail, including their signature tilted posture and lovable expressions.</p> <p>Their gaze will surely bring a smile to your face. <br> Features a woven name label in bright yellow as a cute accent. <br> Perfect for display, gifting, or taking photos with.</p>",
+    "tags": [
+      "Plush Toy",
+      "Sheep",
+      "Animals"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sea Creatures Chopstick Rests",
+    "price": 715,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152860-l.jpg",
+    "stock": 300,
+    "variants": [
+      {
+        "types": "Sea otter",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152860-91.jpg"
+      },
+      {
+        "types": "Seal",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152860-92.jpg"
+      }
+    ],
+    "description": "<p>Warm wooden chopstick rests featuring adorable otters and seals. <br> Their charming faces bring a little joy to every meal. <br> An everyday item that makes your table feel more fun and inviting. <br> Not dishwasher safe.</p>",
+    "tags": [
+      "Dining",
+      "Home Time",
+      "SeaCreatures",
+      "Small Gift"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "[Online only item] Garden Eel Glass",
+    "price": 1738,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152647-l.jpg",
+    "stock": 50,
+    "variants": [
+      {
+        "types": "Spotted garden eel",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152647-91.jpg"
+      },
+      {
+        "types": "Splended garden eel",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152647-92.jpg"
+      }
+    ],
+    "description": "<p>A playful glass featuring a tiny garden eel peeking up from inside. <br> Each glass contains a handmade glass mascot that brings a smile every time you look at it. <br> A great gift idea full of whimsy.</p> <p>This item is not microwave, oven, dishwasher, or dryer safe. <br> Do not use with spoons, stirrers, or ice as it may damage the interior motif. <br> Handmade — each item may vary slightly in shape and expression.</p>",
+    "tags": [
+      "Online only item",
+      "Dining",
+      "Tableware",
+      "Daily Goods",
+      "Sea Creatures"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fruit Glass Bead Coasters",
+    "price": 748,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-l.jpg",
+    "stock": 200,
+    "variants": [
+      {
+        "types": "Peach",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-91.jpg"
+      },
+      {
+        "types": "Orange",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-92.jpg"
+      },
+      {
+        "types": "Apple",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-93.jpg"
+      },
+      {
+        "types": "Watermelon",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-94.jpg"
+      }
+    ],
+    "description": "<p>Cute and colorful fruit-themed coasters made with shimmering glass beads. <br> Adds a summery sparkle and charm to any table setting. <br> Can also be used as a decorative base for vases.</p> <p>Available in four styles: peach, orange, apple, and watermelon. <br> Handmade – slight variations may occur.</p>",
+    "tags": [
+      "Interior",
+      "Living Goods",
+      "Dining",
+      "Fruit",
+      "Small Gift"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ripple Check Room Shoes",
+    "price": 1760,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152649-l.jpg",
+    "stock": 30,
+    "variants": [
+      {
+        "types": "red",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152649-91.jpg"
+      },
+      {
+        "types": "blue",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152649-93.jpg"
+      },
+      {
+        "types": "green",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152649-92.jpg"
+      }
+    ],
+    "description": "<p>Cute checkered room shoes with a ribbon detail, perfect for warmer seasons. <br> The upper is made of soft pile fabric, and the lightly cushioned insole feels pleasant even barefoot.</p> <p>Available in pink, mint, and blue. <br> An original item by Bleu Bleuet.</p>",
+    "tags": [
+      "Original",
+      "Slippers",
+      "Living Goods",
+      "Checkered",
+      "Ribbon"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Handy Fan Petit",
+    "price": 2200,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152060-l.jpg",
+    "stock": 50,
+    "variants": [
+      {
+        "types": "white",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152060-91.jpg"
+      },
+      {
+        "types": "blue",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152060-92.jpg"
+      },
+      {
+        "types": "pink",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152060-93.jpg"
+      }
+    ],
+    "description": "<p>A palm-sized handy fan that’s as cute as it is practical — a must-have for hot summer days. <br> Lightweight and portable, ideal for commuting or everyday outings.</p>",
+    "tags": [
+      "Cooling Item",
+      "Chill Goods",
+      "Home Time",
+      "HomeTime",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Romance Gravy Beer Glass",
+    "price": 748,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152094-l.jpg",
+    "stock": 300,
+    "variants": [
+      {
+        "types": "gentle man",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152094-91.jpg"
+      },
+      {
+        "types": "difficult man",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152094-92.jpg"
+      }
+    ],
+    "description": "<p>A beer glass that reveals a charming, dandy gentleman when you pour your beer in. <br> A fun and unique design that beer lovers will appreciate. <br> Its shape fits comfortably in your hand and makes drinking easy and enjoyable. Perfect for relaxing at the end of the day.</p> <p>Great for yourself or as a gift. <br> Not microwave or dishwasher safe.</p>",
+    "tags": [
+      "Tableware",
+      "Dining"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Doggo Floor Mat",
+    "price": 2750,
+    "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152815-l.jpg",
+    "stock": 60,
+    "variants": [
+      {
+        "types": "Schnauzer",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152815-91.jpg"
+      },
+      {
+        "types": "Toy poodle",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152815-92.jpg"
+      },
+      {
+        "types": "Samoyed",
+        "imgUrl": "https://risa0110.github.io/retail-dashboard-app-server/img/152815-93.jpg"
+      }
+    ],
+    "description": "<p>A cozy floor mat featuring relaxed and adorable dog designs. <br> Perfect not only as a welcome mat or kitchen mat but also as an interior accent for your living room or any room. <br> Soft and fluffy texture makes it ideal for comfortable relaxing at home.</p> <p>The backside has an anti-slip feature to keep it securely in place, and it’s washable for easy care. <br> Available in 3 different designs. A great gift for dog lovers too!</p>",
+    "tags": [
+      "Living Goods",
+      "Interior",
+      "Dogs"
+    ]
+  }
 ]
