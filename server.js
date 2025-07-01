@@ -24,7 +24,25 @@ app.post('/purchase', (req,res)=>{
     fs.writeFileSync(filePath, JSON.stringify(purchases, null, 2));
     
     res.status(200).json({message:'Purchase data has requested successfully!'});
+
+    //
+    const productPath = path.join(__dirname, 'data', 'product.json');
+    let productList = [];
+
+    if(fs.existsSync(productPath)){
+        const rawProducts = fs.readFileSync(productPath);
+        productList = JSON.parse(rawProducts);
+    }
+    purchaseData.forEach(purchaseItem=>{
+        const product = productList.find(p=>p.id===purchaseItem.productId);
+        if(product){
+            product.stock -= purchaseItem.quantity;
+            if(product.stock<0) product.stock=0;
+        }
+    });
+    fs.writeFileSync(productPath, JSON.stringify(productList, null, 2));
 });
+
 
 app.listen(PORT, ()=>{
     console.log(`Server running on http://localhost:${PORT}`);
