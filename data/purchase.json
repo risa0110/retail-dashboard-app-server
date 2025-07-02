@@ -12,29 +12,5 @@
       "productId": 13,
       "quantity": 2
     }
-  ],
-  [
-    {
-      "productId": 1,
-      "quantity": 3
-    },
-    {
-      "productId": 2,
-      "quantity": 2
-    },
-    {
-      "productId": 13,
-      "quantity": 2
-    }
-  ],
-  [
-    {
-      "productId": 1,
-      "quantity": 1
-    },
-    {
-      "productId": 2,
-      "quantity": 1
-    }
   ]
 ]

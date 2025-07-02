@@ -4,7 +4,7 @@
     "name": "Rush Grass Slipper M",
     "price": 1430,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-l.jpg",
-    "stock": 99,
+    "stock": 98,
     "variants": [
       {
         "types": "red",
@@ -28,7 +28,7 @@
     "name": "PEANUTS Glass",
     "price": 1100,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-l.jpg",
-    "stock": 499,
+    "stock": 494,
     "variants": [
       {
         "types": "snoopy",
@@ -83,7 +83,7 @@
     "name": "[Online only item] 3D creative glass ball",
     "price": 1980,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153074-l.jpg",
-    "stock": 20,
+    "stock": 18,
     "variants": [
       {
         "types": "Moon",
@@ -136,7 +136,7 @@
     "name": "[Online only item] Deco Glass Cherry",
     "price": 1628,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153084-l.jpg",
-    "stock": 30,
+    "stock": 29,
     "variants": [
       {
         "types": "Cherry",
