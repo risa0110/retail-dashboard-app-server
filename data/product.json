@@ -4,7 +4,7 @@
     "name": "Rush Grass Slipper M",
     "price": 1430,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152537a-l.jpg",
-    "stock": 98,
+    "stock": 96,
     "variants": [
       {
         "types": "red",
@@ -28,7 +28,7 @@
     "name": "PEANUTS Glass",
     "price": 1100,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-l.jpg",
-    "stock": 494,
+    "stock": 493,
     "variants": [
       {
         "types": "snoopy",
@@ -55,7 +55,7 @@
     "name": "Animal embroidery pile loungewear top and bottom set",
     "price": 3300,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152736-l.jpg",
-    "stock": 50,
+    "stock": 46,
     "variants": [
       {
         "types": "Blue Grey",

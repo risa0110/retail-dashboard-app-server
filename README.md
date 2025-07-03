@@ -18,13 +18,13 @@ This is the server-side repository for the Retail Dashboard App. It handles prod
 - Git & GitHub (for version control)    
 
 ## Folder Structure  
-/data
- |---product.json # Stores products data  
- |---purchase.json # Stores purchase records  
- |---review.json # Stores customer reviews    
-/server.js # Main server entry point        
+/data  
+ |---product.json / Stores products data  
+ |---purchase.json / Stores purchase records  
+ |---review.json / Stores customer reviews    
+/server.js / Main server entry point        
 /README.md  
-/assets  # Stores the site products images  
+/assets  / Stores the site products images  
   
 ## Getting Started    
 ### Prerequisites  
