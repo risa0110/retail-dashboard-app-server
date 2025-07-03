@@ -28,7 +28,7 @@
     "name": "PEANUTS Glass",
     "price": 1100,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152575-l.jpg",
-    "stock": 493,
+    "stock": 154,
     "variants": [
       {
         "types": "snoopy",
@@ -205,7 +205,7 @@
     "name": "Chirari's Plush",
     "price": 2750,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/chirari_s_750-900-1.jpg",
-    "stock": 100,
+    "stock": 90,
     "variants": [
       {
         "types": "Nezuchi",
@@ -232,7 +232,7 @@
     "name": "Sea Creatures Chopstick Rests",
     "price": 715,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152860-l.jpg",
-    "stock": 300,
+    "stock": 93,
     "variants": [
       {
         "types": "Sea otter",
@@ -281,7 +281,7 @@
     "name": "Fruit Glass Bead Coasters",
     "price": 748,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/153068-l.jpg",
-    "stock": 200,
+    "stock": 88,
     "variants": [
       {
         "types": "Peach",
@@ -343,7 +343,7 @@
     "name": "Handy Fan Petit",
     "price": 2200,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152060-l.jpg",
-    "stock": 50,
+    "stock": 46,
     "variants": [
       {
         "types": "white",
@@ -372,7 +372,7 @@
     "name": "Romance Gravy Beer Glass",
     "price": 748,
     "image": "https://risa0110.github.io/retail-dashboard-app-server/img/152094-l.jpg",
-    "stock": 300,
+    "stock": 125,
     "variants": [
       {
         "types": "gentle man",

@@ -12,5 +12,138 @@
     "Title": "Great!",
     "Comment": "Cute Slippers♡",
     "date": "2025-07-02T22:34:54.641Z"
+  },
+  {
+    "productId": 1,
+    "rating": 4,
+    "Title": "Fresh and breathable",
+    "Comment": "These slippers are perfect for summer. The rush grass feels cool underfoot and helps my feet stay dry. I wear them every day after my shower!",
+    "date": "2025-07-03T00:54:30.105Z"
+  },
+  {
+    "productId": 1,
+    "rating": 0,
+    "Title": "My favorite summer slippers",
+    "Comment": "I didn’t expect much, but they’re so comfy! I even got a matching L size pair for my partner — we love them.",
+    "date": "2025-07-03T00:54:46.758Z"
+  },
+  {
+    "productId": 2,
+    "rating": 4,
+    "Title": "Love this Snoopy design!",
+    "Comment": "The illustrations are adorable and bring a smile every time I use it. Great for iced coffee or soda.",
+    "date": "2025-07-03T00:55:13.580Z"
+  },
+  {
+    "productId": 2,
+    "rating": 5,
+    "Title": "Perfect gift idea",
+    "Comment": "I bought this as a present, and the recipient loved the cute box and character print. It’s affordable and thoughtful.",
+    "date": "2025-07-03T00:55:29.380Z"
+  },
+  {
+    "productId": 2,
+    "rating": 4,
+    "Title": "Nostalgic and useful",
+    "Comment": "Snoopy was my favorite growing up, so this glass brings back memories. It’s also very practical for daily drinks.",
+    "date": "2025-07-03T00:55:49.231Z"
+  },
+  {
+    "productId": 3,
+    "rating": 4,
+    "Title": "Super soft and cute!",
+    "Comment": "The fabric feels amazing. I love the wombat embroidery — it’s rare and adorable. I wear this set almost every night.",
+    "date": "2025-07-03T00:56:15.686Z"
+  },
+  {
+    "productId": 3,
+    "rating": 3,
+    "Title": " Also good after workouts",
+    "Comment": "Because it’s absorbent, I use it after yoga or quick workouts. Very comfortable even on sweaty skin.",
+    "date": "2025-07-03T00:56:35.613Z"
+  },
+  {
+    "productId": 3,
+    "rating": 1,
+    "Title": "Embroidery came loose",
+    "Comment": "One of the animal patches started to fray after a couple of washes. I had to sew it back on.",
+    "date": "2025-07-03T00:57:22.691Z"
+  },
+  {
+    "productId": 3,
+    "rating": 2,
+    "Title": "Too warm in summer",
+    "Comment": "It’s cozy, but the pile fabric makes it hot in warmer weather. Not as breathable as I’d hoped.",
+    "date": "2025-07-03T00:57:41.993Z"
+  },
+  {
+    "productId": 4,
+    "rating": 4,
+    "Title": "Magical atmosphere",
+    "Comment": "The way the design lights up is so pretty. I use it on my desk, and it adds a calming vibe in the evenings.",
+    "date": "2025-07-03T00:58:15.182Z"
+  },
+  {
+    "productId": 4,
+    "rating": 5,
+    "Title": "Gift-worthy and soothing",
+    "Comment": "I gave this to my sister as a birthday gift, and she loved it. It’s relaxing to look at when lit up.",
+    "date": "2025-07-03T00:58:30.755Z"
+  },
+  {
+    "productId": 4,
+    "rating": 2,
+    "Title": "Feels a bit overpriced",
+    "Comment": "It’s pretty, but considering the size and materials, it felt slightly overpriced.",
+    "date": "2025-07-03T00:58:55.384Z"
+  },
+  {
+    "productId": 4,
+    "rating": 1,
+    "Title": "Box was badly damaged",
+    "Comment": "The product was okay, but the box looked crushed. Not good if you're buying it as a gift.",
+    "date": "2025-07-03T00:59:30.123Z"
+  },
+  {
+    "productId": 1,
+    "rating": 1,
+    "Title": "Disappointed in quality",
+    "Comment": "I was disappointed to find the stitching coming loose after just a week.",
+    "date": "2025-07-03T19:55:48.613Z"
+  },
+  {
+    "productId": 1,
+    "rating": 1,
+    "Title": "Poor grip on hard floors",
+    "Comment": "The anti-slip sole didn't help much on tile. The grip is kind of poor.",
+    "date": "2025-07-03T19:56:03.965Z"
+  },
+  {
+    "productId": 2,
+    "rating": 1,
+    "Title": "Poor quality print",
+    "Comment": "The Snoopy illustration faded quickly. The quality feels poor for official merch.",
+    "date": "2025-07-03T19:56:34.793Z"
+  },
+  {
+    "productId": 2,
+    "rating": 1,
+    "Title": "Box was badly broken",
+    "Comment": "The gift box arrived broken and crumpled. Very disappointing packaging.",
+    "date": "2025-07-03T19:56:51.154Z"
+  },
+  {
+    "productId": 3,
+    "rating": 5,
+    "Title": "Love the cute animals!",
+    "Comment": "I love the little koala and wombat details—super adorable.",
+    "date": "2025-07-03T19:57:14.364Z"
+  },
+  {
+    "productId": 4,
+    "rating": 1,
+    "Title": "Broken on arrival",
+    "Comment": "Sadly, the glass was broken when I opened the box. Very disappointing.",
+    "date": "2025-07-03T19:57:55.320Z"
   }
 ]
